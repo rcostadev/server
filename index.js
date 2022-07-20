@@ -7,7 +7,7 @@ const pool = require("./db");
 app.use(cors());
 app.use(express.json()); //req.body
 
-// Router
+//=-=-=-=-=-=-=Router
 
 // create a todo - Rota para criar tarefa
 
